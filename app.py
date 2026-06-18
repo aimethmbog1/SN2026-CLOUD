@@ -370,7 +370,7 @@ div[data-testid="stDecoration"] { display: none; }
 st.markdown("""
 <div class="hero">
     <div class="hero-label">Machine Learning in the Cloud</div>
-    <div class="hero-title">Devoir de CC</div>
+    <div class="hero-title">Devoir de SN</div>
     <div class="hero-subtitle">Intelligence Artificielle · Prédiction · Monitoring</div>
     <p class="hero-desc">
         Une solution complète combinant vision par ordinateur, traitement du langage naturel,
