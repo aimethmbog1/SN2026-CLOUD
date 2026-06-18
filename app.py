@@ -400,7 +400,7 @@ with col2:
     st.markdown("""
     <div class="info-card">
         <h4>Type d'évaluation</h4>
-        <p class="value-big">Contrôle Continu (CC)</p>
+        <p class="value-big">SESSION NORMALE (SN)</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -464,7 +464,7 @@ with col_p1:
             <div class="label">👥 Membres</div>
             <div class="names">Aimé Thierry MBOG<br>Hamad RASSEM</div>
         </div>
-        <a class="link-btn link-btn-1" href="https://aimethmbog1-medicalscan-ai-app-kidney-5-eeferc.streamlit.app/" target="_blank">
+        <a class="link-btn link-btn-1" href="https://aimethmbog1-medicalscan-ai-app-c0ptym.streamlit.app/" target="_blank">
             🚀 Voir l'application déployée
         </a>
     </div>
@@ -490,7 +490,7 @@ with col_p2:
             <div class="label">👥 Membres</div>
             <div class="names">Kamno Kamche RUTH<br>Manuella EFEMBA</div>
         </div>
-        <a class="link-btn link-btn-2" href="https://stocksightaistockprediction-rrceguvir9vxa9tmappwkps.streamlit.app/" target="_blank">
+        <a class="link-btn link-btn-2" href="https://aimethmbog1-sn2026-app-rlh8bb.streamlit.app/" target="_blank">
             🚀 Voir l'application déployée
         </a>
     </div>
@@ -571,7 +571,7 @@ with lc1:
     <div class="info-card" style="border-left-color:#00c8ff;">
         <h4>🏥 Application — Partie 1</h4>
         <p style="margin-bottom:1rem; color:#8aa0b8;">Diagnostic CNN · Chatbot · Audio · Monitoring LangSmith</p>
-        <a class="link-btn link-btn-1" href="https://aimethmbog1-medicalscan-ai-app-kidney-5-eeferc.streamlit.app/" target="_blank">
+        <a class="link-btn link-btn-1" href="https://aimethmbog1-medicalscan-ai-app-c0ptym.streamlit.app/" target="_blank">
             Ouvrir MedicalScan AI →
         </a>
     </div>
@@ -582,7 +582,7 @@ with lc2:
     <div class="info-card" style="border-left-color:#4ecdc4;">
         <h4>📈 Application — Partie 2</h4>
         <p style="margin-bottom:1rem; color:#8aa0b8;">LSTM · Prophet · NeuralProphet · Chatbot Financier</p>
-        <a class="link-btn link-btn-2" href="https://stocksightaistockprediction-rrceguvir9vxa9tmappwkps.streamlit.app/" target="_blank">
+        <a class="link-btn link-btn-2" href="https://aimethmbog1-sn2026-app-rlh8bb.streamlit.app/" target="_blank">
             Ouvrir StockSight AI →
         </a>
     </div>
@@ -595,7 +595,7 @@ st.markdown("""
     <div class="footer-text">
         ◆ &nbsp; Machine Learning in the Cloud · CC; ◆ &nbsp;
         Supervisé par Mr Dalil Abdouraman (ING DATA – Specialist IA) &nbsp; ◆ &nbsp;
-        MBOG · RASSEM · RUTH · EFEMBA &nbsp; ◆
+        SN &nbsp; ◆
     </div>
 </div>
 """, unsafe_allow_html=True)
