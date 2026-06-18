@@ -593,7 +593,7 @@ with lc2:
 st.markdown("""
 <div class="footer">
     <div class="footer-text">
-        ◆ &nbsp; Machine Learning in the Cloud · CC; ◆ &nbsp;
+        ◆ &nbsp; Machine Learning in the Cloud · SN; ◆ &nbsp;
         Supervisé par Mr Dalil Abdouraman (ING DATA – Specialist IA) &nbsp; ◆ &nbsp;
         SN &nbsp; ◆
     </div>
